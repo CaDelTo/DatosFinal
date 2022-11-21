@@ -1,0 +1,303 @@
+{
+  "Caimanes de Barranquilla": {
+    "posicion": "1",
+    "equpipo": [
+      {
+        "Carreras": "28",
+        "nombre": "Elkin Alcal\u00e1"
+      },
+      {
+        "Carreras": "55",
+        "nombre": "Rodrigo Benoit"
+      },
+      {
+        "Carreras": "27",
+        "nombre": "Randy Consuegra"
+      },
+      {
+        "Carreras": "21",
+        "nombre": "Luis De \u00c1vila"
+      },
+      {
+        "Carreras": "20",
+        "nombre": "Juan D\u00edaz"
+      },
+      {
+        "Carreras": "41",
+        "nombre": "Elniery Garc\u00eda"
+      },
+      {
+        "Carreras": "67",
+        "nombre": "Donald Goodson"
+      },
+      {
+        "Carreras": "42",
+        "nombre": "Yaramil Hiraldo"
+      },
+      {
+        "Carreras": "37",
+        "nombre": "Joel Inoa"
+      },
+      {
+        "Carreras": "42",
+        "nombre": "Francisco Jim\u00e9nez"
+      },
+      {
+        "Carreras": "99",
+        "nombre": "Porfirio L\u00f3pez"
+      },
+      {
+        "Carreras": "16",
+        "nombre": "Eduar L\u00f3pez"
+      },
+      {
+        "Carreras": "25",
+        "nombre": "Deivy M\u00e9ndez"
+      },
+      {
+        "Carreras": "31",
+        "nombre": "Luis Moreno"
+      },
+      {
+        "Carreras": "69",
+        "nombre": "Jeffry Ni\u00f1o"
+      },
+      {
+        "Carreras": "47",
+        "nombre": "Fernando P\u00e9rez"
+      },
+      {
+        "Carreras": "46",
+        "nombre": "Ronald Ram\u00edrez"
+      }
+    ]
+  },
+  "Getsemani Leones de La Trinidad": {
+    "posicion": "5",
+    "equpipo": [
+      {
+        "Carreras": "0",
+        "nombre": "None"
+      }
+    ]
+  },
+  "Gigantes de Barranquilla": {
+    "posicion": "2",
+    "equpipo": [
+      {
+        "Carreras": "5",
+        "nombre": "Hern\u00e1n Guzm\u00e1n"
+      },
+      {
+        "Carreras": "10",
+        "nombre": "Jasier Herrera"
+      },
+      {
+        "Carreras": "4",
+        "nombre": "Ram\u00f3n Ulacio"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Eduin Villa"
+      },
+      {
+        "Carreras": "3",
+        "nombre": "Jos\u00e9 Puerta"
+      },
+      {
+        "Carreras": "4",
+        "nombre": "\u00c1ngel Vilchez"
+      },
+      {
+        "Carreras": "23",
+        "nombre": "Kermin Guardia"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Hugo Beltr\u00e1n"
+      },
+      {
+        "Carreras": "7",
+        "nombre": "Juan Diaz"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Wirkin Est\u00e9vez"
+      },
+      {
+        "Carreras": "6",
+        "nombre": "Rodrigo Benoit"
+      },
+      {
+        "Carreras": "10",
+        "nombre": "Gabriel P\u00e9rez"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Yaramil Hiraldo"
+      },
+      {
+        "Carreras": "3",
+        "nombre": "Wilson L\u00f3pez"
+      }
+    ]
+  },
+  "Tigres de Cartagena": {
+    "posicion": "3",
+    "equpipo": [
+      {
+        "Carreras": "1",
+        "nombre": "Porfilio L\u00f3pez"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Euclides Leyer"
+      },
+      {
+        "Carreras": "3",
+        "nombre": "Eduar L\u00f3pez"
+      },
+      {
+        "Carreras": "14",
+        "nombre": "Reiver Sanmartin"
+      },
+      {
+        "Carreras": "15",
+        "nombre": "Ezequiel Zabaleta"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Erling Moreno"
+      },
+      {
+        "Carreras": "2",
+        "nombre": "Yhonatan Barrios"
+      },
+      {
+        "Carreras": "9",
+        "nombre": "Kevin Escorcia"
+      },
+      {
+        "Carreras": "6",
+        "nombre": "Elkin Alcal\u00e1"
+      },
+      {
+        "Carreras": "9",
+        "nombre": "Guillermo Z\u00fa\u00f1iga"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Sugar Ray Marim\u00f3n"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Jos\u00e9 Valdespina"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Yeizer Marrugo"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Sergio Palacio"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Jos\u00e9 Altamiranda"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Jhon Vergara"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Alberto Torres"
+      }
+    ]
+  },
+  "Vaqueros de Monteria": {
+    "posicion": "4",
+    "equpipo": [
+      {
+        "Carreras": "10",
+        "nombre": "Luis Ortega"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Pedro Echemendia"
+      },
+      {
+        "Carreras": "3",
+        "nombre": "Carlos De \u00c1vila"
+      },
+      {
+        "Carreras": "4",
+        "nombre": "Edinson Fr\u00edas"
+      },
+      {
+        "Carreras": "6",
+        "nombre": "Carlos Ocampo"
+      },
+      {
+        "Carreras": "9",
+        "nombre": "Sebasti\u00e1n Escobar"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Jaider Rocha"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Carlos Diaz"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Luis P\u00e9rez"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Jhon Peluffo"
+      },
+      {
+        "Carreras": "10",
+        "nombre": "Ely Mor\u00f3n"
+      },
+      {
+        "Carreras": "11",
+        "nombre": "Misael Siverio"
+      },
+      {
+        "Carreras": "8",
+        "nombre": "Cody Mincey"
+      },
+      {
+        "Carreras": "0",
+        "nombre": "Hernando Mej\u00eda"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Jos\u00e9 Rodr\u00edguez"
+      },
+      {
+        "Carreras": "2",
+        "nombre": "Juan Polo"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "\u00c1ngel Vilchez"
+      },
+      {
+        "Carreras": "4",
+        "nombre": "Jorge Mart\u00ednez"
+      },
+      {
+        "Carreras": "1",
+        "nombre": "Reynaldo Polanco"
+      },
+      {
+        "Carreras": "6",
+        "nombre": "\u00c1lvaro Galindo"
+      }
+    ]
+  }
+}

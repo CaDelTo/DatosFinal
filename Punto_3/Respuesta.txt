@@ -1,0 +1,6 @@
+Tomando como ejemplo para la cola una linea de carros en un semaforo, estos van eliminandose o saliendo en orden de llegada
+(Si CarroA, CarroB y CarroC estan en la fila, saldran en el respectico orden de llegada(CarroA de primero, CarroC de ultimo))
+
+Pero en las pilas, sale o se elimina el ultimo que llega de primero, por ejemplo, las baterias de una linterna de las viejitas
+las debes quitar de la ultima que se pone, y de ultima se quita la primera(Bateria1, Bateria2 y Bateria3, se va primero bateria 3
+ya que es la ultima en la pila)
